@@ -1,0 +1,11 @@
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\bin\Debug\beden kitle indexi.exe.config
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\bin\Debug\beden kitle indexi.exe
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\bin\Debug\beden kitle indexi.pdb
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden kitle indexi.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden kitle indexi.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden_kitle_indexi.Form1.resources
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden_kitle_indexi.Properties.Resources.resources
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden kitle indexi.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden kitle indexi.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden kitle indexi.exe
+C:\Users\casper\source\repos\beden kitle indexi\beden kitle indexi\obj\Debug\beden kitle indexi.pdb
